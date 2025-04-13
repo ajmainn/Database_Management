@@ -1,1 +1,1 @@
-# Database_Management
+Simple Database Management Project in "**Oracle**"
